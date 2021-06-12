@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_LINQ", "DAL_LINQ\DAL_LINQ.csproj", "{5D295206-1228-4399-83C2-A4AAC780AD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_LINQ", "BUS_LINQ\BUS_LINQ.csproj", "{99EBF061-359C-456C-A831-956A098834CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_LINQ", "GUI_LINQ\GUI_LINQ.csproj", "{41CBE2CC-2C15-4181-89F9-3015FEB40D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D295206-1228-4399-83C2-A4AAC780AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D295206-1228-4399-83C2-A4AAC780AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D295206-1228-4399-83C2-A4AAC780AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D295206-1228-4399-83C2-A4AAC780AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EBF061-359C-456C-A831-956A098834CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EBF061-359C-456C-A831-956A098834CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EBF061-359C-456C-A831-956A098834CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EBF061-359C-456C-A831-956A098834CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CBE2CC-2C15-4181-89F9-3015FEB40D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CBE2CC-2C15-4181-89F9-3015FEB40D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CBE2CC-2C15-4181-89F9-3015FEB40D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CBE2CC-2C15-4181-89F9-3015FEB40D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD4AB74-CF80-4041-ACCC-AC080D3A757D}
+	EndGlobalSection
+EndGlobal
